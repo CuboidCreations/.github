@@ -1,6 +1,6 @@
-## Hi there 👋
+#### CuboidCreations is a Minecraft server network and community.
 
-# CuboidCreations is a Minecraft server network and community.
+
 
 <!--
 
