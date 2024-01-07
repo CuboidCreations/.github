@@ -1,4 +1,4 @@
-#### CuboidCreations is a Minecraft server network and community.
+#### CuboidCreations is small game development studio based out of Brisbane, Australia.
 
 
 
